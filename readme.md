@@ -71,7 +71,6 @@ npm install --dev
 ```bash
 make
 make pack
-make install
 ```
 
 ### 4. Install the Extension Locally
@@ -97,7 +96,6 @@ make install
 
 Includes:
 - TypeScript for type-safe development
-- Type definitions for GNOME modules like Gi,Clutter, and St etc
 
 ```json
 "devDependencies": {
