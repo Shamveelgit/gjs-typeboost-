@@ -1,0 +1,7 @@
+{
+    "name": "My GNOME Extension",
+    "description": "A simple GNOME Shell extension",
+    "uuid": "my-extension@yourdomain.com",
+    "shell-version": ["43"],
+    "url": "https://github.com/yourusername/my-gnome-extension"
+  }

@@ -1,0 +1,26 @@
+{
+  "name": "gjs-typeboost",
+  "version": "1.0.0",
+  "description": "A TypeScript-based GNOME Shell 43 extension development setup with autocomplete and type definitions.",
+  "main": "dist/extension.js",
+  "scripts": {
+    "make": "make",
+    "pack": "make pack",
+    "install": "make install",
+    "clean" : "make clean"
+  },
+  "keywords": [
+    "gnome",
+    "gnome-shell",
+    "gjs",
+    "typescript",
+    "autocomplete",
+    "extension"
+  ],
+  "author": "Shamveelgit",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {}
+}
