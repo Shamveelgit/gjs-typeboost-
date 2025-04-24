@@ -56,7 +56,7 @@ my-extension/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/gjs-typeboost.git
+git clone https://github.com/Shamveelgit/gjs-typeboost.git
 cd gjs-typeboost
 ```
 
